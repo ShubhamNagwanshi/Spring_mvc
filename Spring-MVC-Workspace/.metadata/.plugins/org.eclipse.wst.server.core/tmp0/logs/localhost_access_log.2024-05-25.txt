@@ -1,0 +1,14 @@
+127.0.0.1 - - [25/May/2024:17:42:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:42:15 +0530] "GET /Spring-mvc/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:42:33 +0530] "GET /Spring-mvc/Login HTTP/1.1" 200 1614
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:42:49 +0530] "POST /Spring-mvc/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:42:49 +0530] "GET /Spring-mvc/Welcome HTTP/1.1" 200 1150
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:42:55 +0530] "GET /Spring-mvc/ctl/User/search HTTP/1.1" 200 4995
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:46:54 +0530] "GET /Spring-mvc/ctl/User/search HTTP/1.1" 200 4995
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:46:59 +0530] "GET /Spring-mvc/ctl/User/search HTTP/1.1" 200 4995
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:47:04 +0530] "GET /Spring-mvc/Login?operation=logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:47:04 +0530] "GET /Spring-mvc/Login HTTP/1.1" 200 1614
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:48:38 +0530] "GET /Spring-mvc/Login HTTP/1.1" 200 1615
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:48:49 +0530] "POST /Spring-mvc/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:48:49 +0530] "GET /Spring-mvc/Welcome HTTP/1.1" 200 1151
+0:0:0:0:0:0:0:1 - - [25/May/2024:17:48:53 +0530] "GET /Spring-mvc/ctl/User/search HTTP/1.1" 200 4996

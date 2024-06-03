@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\rays software\Spring-MVC-Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1070283808.index
+\Spring-mvc\src\main\java
+C:\rays software\Spring-MVC-Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012753019.index
+\Spring-mvc-01\src\main\resources
+C:\rays software\Spring-MVC-Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2441150525.index
+\Spring-mvc\src\main\resources
